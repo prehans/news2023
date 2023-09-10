@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "Mariella Moon",
+    "title": "The Hulu + Live TV bundle will cost at least $5 more starting in December",
+    "description": "Like many other streaming services over the past year, Hulu raised its subscription prices in October from $7 to $8 per month for its ad-supported tier. Now, the Disney-owned streaming service is also raising the prices for its Hulu + Live TV bundle. In an em…",
+    "url": "https://www.engadget.com/hulu-live-tv-bundle-price-hike-063452182.html",
+    "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/fce682f0-5bef-11ed-bf7b-c0b58dc7884e",
+    "publishedAt": "2022-11-04T06:34:52Z",
+    "content": "Like many other streaming services over the past year, Hulu raised its subscription prices in October from $7 to $8 per month for its ad-supported tier. Now, the Disney-owned streaming service is als… [+1234 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Apple adds Pegatron as new iPhone 14 supplier in India - Bloomberg News - Reuters",
+    "description": "Apple Inc's <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> Taiwanese contract manufacturer Pegatron Corp <a href=\"https://www.reuters.com/companies/4938.TW\" target=\"_blank\">(4938.TW)</a> has begun assembling the new iPhone 14 …",
+    "url": "https://www.reuters.com/business/apple-adds-pegatron-new-iphone-14-supplier-india-bloomberg-news-2022-11-04/",
+    "urlToImage": "https://www.reuters.com/resizer/zl2GWdojkbZJns4jaiFgXzGWqu8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E6FHM6PYYRLCJPFZ4GW2HKTAMQ.jpg",
+    "publishedAt": "2022-11-04T04:31:00Z",
+    "content": "Nov 4 (Reuters) - Apple Inc's (AAPL.O) Taiwanese contract manufacturer Pegatron Corp (4938.TW) has begun assembling the new iPhone 14 in India, Bloomberg News reported on Friday, citing people famili… [+358 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Phil Harrison",
+    "title": "The Crown to Mammals: the seven best shows to stream this week",
+    "description": "The hit royal drama gets even more controversial, while James Corden returns to TV with a little help from Jez Butterworth Continue reading...",
+    "url": "https://www.theguardian.com/tv-and-radio/2022/nov/04/the-crown-to-mammals-the-seven-best-shows-to-stream-this-week",
+    "urlToImage": "https://i.guim.co.uk/img/media/00f447c57be0b96932436fab33961433db01926e/1473_26_6479_3887/master/6479.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=212d3ddd1136ee20b6138ddaad035ffc",
+    "publishedAt": "2022-11-04T07:00:38Z",
+    "content": "Pick of the week\r\nThe Crown\r\nWith our memories of the Queens death still fresh, this fifth season of Peter Morgans pointed royal saga arrives at a piquant moment. As we rejoin the Windsors, its the 1… [+4584 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Simon Wardell",
+    "title": "Causeway to Enola Holmes 2: the seven best films to watch on TV this week",
+    "description": "Jennifer Lawrence plays a soldier sent home to recover from injuries sustained in Afghanistan, while Millie Bobby Brown is back as the youthful sleuth Continue reading...",
+    "url": "https://www.theguardian.com/tv-and-radio/2022/nov/04/causeway-to-enola-holmes-2-the-seven-best-films-to-watch-on-tv-this-week",
+    "urlToImage": "https://i.guim.co.uk/img/media/5a6e92bf9a73021f90130b0f068ade67243e503c/156_6_3586_2153/master/3586.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5862eb3e48b86a96527ad700f17f07ba",
+    "publishedAt": "2022-11-04T09:00:39Z",
+    "content": "Pick of the week\r\nCauseway\r\nJennifer Lawrence can do the flashy and fantastical (Dont Look Up, X-Men, Red Sparrow) but shes also skilled at the downbeat and down-at-heel. The latter is very much in e… [+4941 chars]"
+    }
+    ]
+    }
